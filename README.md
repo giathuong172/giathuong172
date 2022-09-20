@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Math , Technology, Game
 
-- 🌱 I’m currently learning at FPT University-HCM Campú
+- 🌱 I’m currently learning at FPT University-HCM Campus
 </div>
 ## 📫 How to reach me:
 
