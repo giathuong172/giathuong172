@@ -5,7 +5,20 @@
 - 👀 I’m interested in Math , Technology
 - 🌱 I’m currently learning at FPT University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at thuongmc2k2@gmail.com
+
+## 📫 How to reach me:
+
+<p align="center">
+  <a href="https://www.facebook.com/thuongng.aad/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />    
+  </a> 
+  <a href="https://github.com/giathuong172" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>   
+  </a> 
+  <a href="mailto:thuongmc2k2@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>   
+  </a>
+</p>
 
 <!---
 giathuong172/giathuong172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
