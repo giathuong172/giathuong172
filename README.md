@@ -3,7 +3,9 @@
 </div>
 <div>
 - 👋 Hi, I’m Ngô Gia Thưởng
+
 - 👀 I’m interested in Math , Technology, Game
+
 - 🌱 I’m currently learning at FPT University-HCM Campú
 </div>
 ## 📫 How to reach me:
